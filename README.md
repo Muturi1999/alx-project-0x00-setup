@@ -2,16 +2,7 @@
 
 This project was created using the Next.js CLI with the following configuration:
 
-- TypeScript
-- ESLint
-- Tailwind CSS
-- Import alias: @/*
-- No `/src` directory
-- No App Router
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
-
-## Getting Started
-
+<<<<<<< HEAD
 First, run the development server:
 
 ```bash
@@ -51,11 +42,16 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 This project was created using the Next.js CLI with the following configuration:
 
+=======
+>>>>>>> e769cac (updated read me)
 - TypeScript
 - ESLint
 - Tailwind CSS
 - Import alias: @/*
 - No `/src` directory
 - No App Router
+<<<<<<< HEAD
 
 iCheck out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+=======
+>>>>>>> e769cac (updated read me)
